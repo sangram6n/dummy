@@ -1,3 +1,4 @@
+import os
 x = "hello world"
 
 try:
